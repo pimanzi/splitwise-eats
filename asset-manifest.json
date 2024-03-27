@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/splitwise-eats/static/css/main.f38a3276.css",
+    "main.js": "/splitwise-eats/static/js/main.7b7fc831.js",
+    "index.html": "/splitwise-eats/index.html",
+    "main.f38a3276.css.map": "/splitwise-eats/static/css/main.f38a3276.css.map",
+    "main.7b7fc831.js.map": "/splitwise-eats/static/js/main.7b7fc831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.7b7fc831.js"
+  ]
+}
