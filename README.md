@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-1. [Description](description)
-2. [Installation](installation)
-3. [webapp](webapp)
-4. [Author](author)
-5. [Contibution](contribution)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [webapp](#webapp)
+4. [Author](#author)
+5. [Contibution](#contribution)
 
 ## Description
 
@@ -34,7 +34,7 @@ Splitwise-Eats is a user-friendly application designed to simplify the process o
    ```
 
 ## webapp
-Here is website URL [website](https://pimanzi.github.io/travelready/)
+Here is website URL [Website_link](https://pimanzi.github.io/splitwise-eats)
 
 ##Author
 
