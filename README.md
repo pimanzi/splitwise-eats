@@ -1,4 +1,4 @@
-# splitwise-eats🍡😋
+#s splitwise-eats🍡😋
 
 ## Table of Contents
 
